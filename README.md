@@ -22,7 +22,10 @@ Achievements:
 * Superior **Speech Enhancement**: Provides a more robust encoding foundation for isolating and clarifying speech in noisy environments.
 
 
-
+<p align="center">
+  <img src="./figures/audio_generation_results.png" alt="Audio Generation Results" height="250" />
+  <img src="./figures/audio_understanding_results.png" alt="Audio Understanding Results" height="250" />
+</p>
 
 # 🚀 Quick Start
 Installation
